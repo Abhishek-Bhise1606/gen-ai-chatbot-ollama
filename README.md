@@ -142,8 +142,3 @@ Add your chatbot screenshot here.
 
 Developed by **Abhishek Bhise**
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
